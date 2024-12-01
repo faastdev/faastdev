@@ -1,5 +1,5 @@
 <h1 align="center">Salut 🙌, c'est _Faast !</h1>
-<h3 align="center">Je suis un apprenti développeur Java avec beaucoup d'ambitions !</h3>
+<h3 align="center">Je suis un apprenti développeur avec beaucoup d'ambitions !</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faastdev&label=Profile%20views&color=0e75b6&style=flat" alt="faastdev" /> </p>
 
